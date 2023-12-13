@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HuaweiMLKitDemo</string>
+    <string name="face_detection">Face Detection</string>
+    <string name="put_your_face_in_the_frame">Put your face in the frame</string>
+</resources>
